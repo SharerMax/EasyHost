@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyHosts</string>
+    <string name="current_hosts">当前Hosts版本</string>
+    <string name="last_hosts">最新Hosts版本</string>
+    <string name="original_hosts">恢复原版</string>
+    <string name="unknown_hosts">未知</string>
+    <string name="check_hosts">检查更新</string>
+    <string name="update_hosts">更新Hosts</string>
+    <string name="apply_hosts">应用Hosts</string>
+
+</resources>
